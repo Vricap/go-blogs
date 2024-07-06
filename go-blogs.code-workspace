@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "posts-service"
+		},
+		{
+			"path": "users-service"
+		}
+	]
+}
